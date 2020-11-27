@@ -1,0 +1,21 @@
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\Music Player.exe.config
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\Music Player.exe
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\Music Player.pdb
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\FontAwesome.WPF.dll
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\WpfAnimatedGif.dll
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\FontAwesome.WPF.xml
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\bin\Debug\WpfAnimatedGif.xml
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\MainWindow.g.cs
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\App.g.cs
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player_MarkupCompile.cache
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player_MarkupCompile.lref
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\App.baml
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\MainWindow.baml
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player.g.resources
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player.exe
+D:\DAI HOC KHOA HOC TU NHIEN\LAP TRINH WINDOW\LÝ THUYẾT\ĐỒ ÁN 3\1760295-1760197-1760301-MiniProject-MultimediaPlayer\1760295-1760197\Music Player\obj\Debug\Music Player.pdb
